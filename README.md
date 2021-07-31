@@ -19,3 +19,6 @@ chmod +x ./Broadcom.sh
 Please enter your choice: 
 
 Note: Once installation is done it will restart your system
+
+
+credits: Made By SSTec Tutorials
